@@ -1,2 +1,2 @@
 # op-research-algorithms
-Operation Research Algorithms Course
+Operation Research Algorithms Course Exercises
