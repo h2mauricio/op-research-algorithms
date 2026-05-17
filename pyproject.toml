@@ -1,0 +1,11 @@
+[project]
+name = "op-research-algorithms"
+version = "0.1.0"
+description = "Operations Research algorithm examples using Gurobi, for educational use"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gurobipy>=13.0.2",
+    "jupyter>=1.1.1",
+    "notebook>=7.5.6",
+]
