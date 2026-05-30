@@ -1,0 +1,5 @@
+﻿district_from,distric_to_1,distric_to_2,distric_to_3,distric_to_4,population
+1,0,3,4,1,40
+2,3,0,5,8,30
+3,4,5,0,1,35
+4,1,8,1,0,5
